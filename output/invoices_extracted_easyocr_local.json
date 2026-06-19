@@ -1,0 +1,65 @@
+[
+  {
+    "invoice_number": "51952/12/2024",
+    "seller_nip": "1233435678",
+    "buyer_nip": "2345683788",
+    "dates": [
+      "13-12-2024"
+    ],
+    "gross_amount": "000,00",
+    "bank_account": "10100020003000400050006000",
+    "source_file": "invoice_1.png",
+    "page_number": 1
+  },
+  {
+    "invoice_number": "A198",
+    "seller_nip": "1232224455",
+    "buyer_nip": "1112211222",
+    "dates": [
+      "2014-03-27",
+      "2014-04-11"
+    ],
+    "gross_amount": "5 750,00",
+    "bank_account": null,
+    "source_file": "invoice_2.png",
+    "page_number": 1
+  },
+  {
+    "invoice_number": "drukowana",
+    "seller_nip": "5862040690",
+    "buyer_nip": null,
+    "dates": [
+      "0000-00-00"
+    ],
+    "gross_amount": "53,46",
+    "bank_account": null,
+    "source_file": "invoice_3_page1.png",
+    "page_number": 1
+  },
+  {
+    "invoice_number": "FVTIoooooo/oo/ooOO-OOOO/E",
+    "seller_nip": "5862040690",
+    "buyer_nip": null,
+    "dates": [
+      "00-00-0000"
+    ],
+    "gross_amount": "25,22",
+    "bank_account": null,
+    "source_file": "invoice_3_page2.png",
+    "page_number": 1
+  },
+  {
+    "invoice_number": "FVI2026/0001",
+    "seller_nip": "1234567890",
+    "buyer_nip": "7129998877",
+    "dates": [
+      "19-05-2026",
+      "19-06-2026",
+      "22-07-2026"
+    ],
+    "gross_amount": "45.00",
+    "bank_account": "12102010260000120202345678",
+    "source_file": "invoice_4.png",
+    "page_number": 1
+  }
+]

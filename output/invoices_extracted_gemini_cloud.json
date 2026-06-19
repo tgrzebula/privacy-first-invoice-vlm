@@ -1,0 +1,142 @@
+[
+  {
+    "file_name": "invoice_1.png",
+    "invoice_type": "Faktura VAT",
+    "invoice_number": "51952/12/2024",
+    "issue_date": "2024-12-13",
+    "sale_date": "2024-12-13",
+    "seller": {
+      "name": "Usługi Informatyczne Jan Nowak",
+      "nip": "1233435678",
+      "address": "ul. Kowalska 22 / 6B, 00-001 Warszawa"
+    },
+    "buyer": {
+      "name": "ABC INFO Andrzej Kowalski",
+      "nip": "2345683788",
+      "address": "ul. Nowakowska 12 / 5, 22-102 Góra Kalwaria"
+    },
+    "amounts": {
+      "net": 1000.0,
+      "vat": 230.0,
+      "gross": 1230.0,
+      "currency": "PLN"
+    },
+    "payment": {
+      "method": "przelew",
+      "due_date": "2024-12-27",
+      "bank_account": "10 1000 2000 3000 4000 5000 6000"
+    }
+  },
+  {
+    "file_name": "invoice_2.png",
+    "invoice_type": "FAKTURA VAT",
+    "invoice_number": "A198",
+    "issue_date": "2014-03-27",
+    "sale_date": "2014-03-27",
+    "seller": {
+      "name": "Sukces sp. z o.o.",
+      "nip": "1232224455",
+      "address": "ul. Okopowa 41, 00-000 Warszawa"
+    },
+    "buyer": {
+      "name": "Testowy Klient",
+      "nip": "1112211222",
+      "address": "ul. Puławska 00, 00-000 Warszawa"
+    },
+    "amounts": {
+      "net": 4674.79,
+      "vat": 1075.21,
+      "gross": 5750.0,
+      "currency": "PLN"
+    },
+    "payment": {
+      "method": "przelew",
+      "due_date": "2014-04-11",
+      "bank_account": "13 1910 1152 9220 0000 0000 0000 a"
+    }
+  },
+  {
+    "file_name": "invoice_3_page1.png",
+    "invoice_type": "Wzór Faktury (Vectra)",
+    "invoice_number": "FVT/0000000/00/0000-0000/P",
+    "issue_date": "0000-00-00",
+    "sale_date": "0000-04-00",
+    "seller": {
+      "name": "Vectra S.A.",
+      "nip": "5862040690",
+      "address": "al. Zwycięstwa 253, 81-525 Gdynia"
+    },
+    "buyer": {
+      "name": "Imię Nazwisko",
+      "nip": null,
+      "address": "ul. Ulica 1 m. 1, 00-000 Miejscowość"
+    },
+    "amounts": {
+      "net": 121.98,
+      "vat": 17.76,
+      "gross": 139.74,
+      "currency": "PLN"
+    },
+    "payment": {
+      "method": "przelew",
+      "due_date": "0000-00-00",
+      "bank_account": "00 0000 0000 0000 0000 0000"
+    }
+  },
+  {
+    "file_name": "invoice_3_page2.png",
+    "invoice_type": "Wzór Faktury (Vectra)",
+    "invoice_number": "FVT/0000000/00/0000-0000/E",
+    "issue_date": "0000-00-00",
+    "sale_date": "0000-03-00",
+    "seller": {
+      "name": "Vectra S.A.",
+      "nip": "5862040690",
+      "address": "al. Zwycięstwa 253, 81-525 Gdynia"
+    },
+    "buyer": {
+      "name": "Imię Nazwisko",
+      "nip": null,
+      "address": "ul. Ulica 1 m. 1, 00-000 Miejscowość"
+    },
+    "amounts": {
+      "net": 25.22,
+      "vat": 3.95,
+      "gross": 21.02,
+      "currency": "PLN"
+    },
+    "payment": {
+      "method": "przelew",
+      "due_date": "0000-00-00",
+      "bank_account": "00 0000 0000 0000 0000 0000"
+    }
+  },
+  {
+    "file_name": "invoice_4.png",
+    "invoice_type": "FAKTURA VAT",
+    "invoice_number": "FV/2026/0001",
+    "issue_date": "2026-06-19",
+    "sale_date": "2026-06-19",
+    "seller": {
+      "name": "POL-DRUT Sp. z o.o.",
+      "nip": "1234567890",
+      "address": "ul. Przemysłowa 12, 00-001 Warszawa"
+    },
+    "buyer": {
+      "name": "SKLEP SPOŻYWCZY ALINKA",
+      "nip": "7129998877",
+      "address": "ul. Wiejska 12, 20-001 Lublin"
+    },
+    "amounts": {
+      "net": 4418.5,
+      "vat": 973.77,
+      "gross": 5392.27,
+      "currency": "PLN"
+    },
+    "payment": {
+      "method": "przelew bankowy",
+      "due_date": "2026-07-22",
+      "bank_account": "12 1020 1026 0000 1202 0234 5678"
+    }
+  }
+]

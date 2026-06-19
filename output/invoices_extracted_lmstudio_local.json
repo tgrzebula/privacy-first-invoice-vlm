@@ -1,0 +1,67 @@
+[
+  {
+    "invoice_number": "51952/12/2024",
+    "seller_name": "Usługi Informatyczne Jan Nowak",
+    "seller_nip": "1233435678",
+    "buyer_name": "ABC INFO Andrzej Kowalski",
+    "buyer_nip": "2345683788",
+    "issue_date": "2024-12-13",
+    "due_date": "2024-12-13",
+    "gross_amount": 1230.0,
+    "bank_account": "10100020003000400050006000",
+    "currency": "PLN",
+    "file_name": "invoice_1.png"
+  },
+  {
+    "invoice_number": "A198",
+    "seller_name": "Sukces sp. z o.o.",
+    "seller_nip": "123224455",
+    "buyer_name": "Testowy Klient",
+    "buyer_nip": "00000000",
+    "issue_date": "2014-03-27",
+    "due_date": "2014-04-11",
+    "gross_amount": 5750.0,
+    "bank_account": "131910115292200000000000",
+    "currency": "PLN",
+    "file_name": "invoice_2.png"
+  },
+  {
+    "invoice_number": "FVT/00000000/00000-0000/P",
+    "seller_name": "Vectra S.A.",
+    "seller_nip": "81-525 0290",
+    "buyer_name": "Imię Nazwisko",
+    "buyer_nip": "00-00000000",
+    "issue_date": "2023-03-01",
+    "due_date": "2023-03-01",
+    "gross_amount": 275.85,
+    "bank_account": "0000000000000000",
+    "currency": "PLN",
+    "file_name": "invoice_3_page1.png"
+  },
+  {
+    "invoice_number": "FV1000000000000000000000",
+    "seller_name": "Vectra S.A.",
+    "seller_nip": "586-20-40-690",
+    "buyer_name": "Imię Nazwisko",
+    "buyer_nip": "00-000-000-000",
+    "issue_date": "2020-03-01",
+    "due_date": "2020-04-01",
+    "gross_amount": 21.02,
+    "bank_account": "00 0000 0000 0000 0000 0000",
+    "currency": "PLN",
+    "file_name": "invoice_3_page2.png"
+  },
+  {
+    "invoice_number": "FV/2026/0001",
+    "seller_name": "POL-DRUT Sp. z o.o.",
+    "seller_nip": "1234567890",
+    "buyer_name": "SKLEP SPOŻYWCZY ALINKA",
+    "buyer_nip": "7129998877",
+    "issue_date": "2026-06-19",
+    "due_date": "2026-07-22",
+    "gross_amount": 5392.27,
+    "bank_account": "12102010260000120202345678",
+    "currency": "PLN",
+    "file_name": "invoice_4.png"
+  }
+]

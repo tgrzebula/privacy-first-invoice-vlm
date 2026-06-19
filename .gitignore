@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Output data from runs (optional to exclude, but keeps repo clean)
+# invoices_extracted_*.json
+dane_faktury_lmstudio.json
+dane_faktury_lmstudio.txt
